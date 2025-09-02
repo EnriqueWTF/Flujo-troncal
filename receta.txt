@@ -41,6 +41,7 @@ Paso a paso para preparar una torta de chocolate esponjosa y húmeda:
 
     A la mezcla anterior, añada la margarina y la leche. Una vez estos dos ingredientes estén bien combinados, sume el vinagre y continúe batiendo.
 
+<<<<<<< HEAD
 Claves para un 2022 más organizado, sereno y en bienestar
 
     Tome los huevos y separe las claras de las yemas. Luego, agregue las yemas y la esencia de vainilla a la mezcla anterior y siga batiendo.
@@ -71,3 +72,6 @@ Decore la parte superior de la torta con hojas de albahaca o con frutas frescas 
 Deliciosa, ¿verdad?… ¿Listo para incorporarla al menú de su pastelería?
 
 Le agradecemos por visitar nuestro blog y le deseamos los mayores éxitos en la preparación de esta receta. Una vez la haya preparado, no dude en compartirnos su experiencia, queremos conocerla.
+=======
+gghkljogiybhuk
+>>>>>>> 3e574d6 (addddddddddd)
