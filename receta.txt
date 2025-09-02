@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Receta de pastel de chocolate esponjoso y húmedo
 
 A diferencia de otras recetas culinarias en el arte de la repostería, lo que hace que un pastel de chocolate sea todo un éxito es su simplicidad y, por supuesto, un toque de creatividad y buen gusto.
@@ -81,3 +82,20 @@ gghkljogiybhuk
 
 me hise loco
 >>>>>>> 6876b32 (prueba)
+=======
+1 taza de avena en hojuelas (puede ser instantánea o molida tipo harina).
+
+1 taza de leche (puede ser entera, descremada o vegetal).
+
+1 huevo (para darle esponjosidad).
+
+1 plátano maduro (endulza y ayuda a la textura).
+
+1 cdita de polvo para hornear.
+
+1 cdita de canela en polvo (opcional, pero queda 🔝).
+
+Endulzante extra (miel, stevia, azúcar, según tu gusto).
+
+Una pizca de sal.
+>>>>>>> 37ebb1f (receta hot cakes)
